@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/itinfo-clone-react/static/css/main.f1c208a3.css",
+    "main.js": "/itinfo-clone-react/static/js/main.e386dead.js",
+    "static/media/carousel1.jpeg": "/itinfo-clone-react/static/media/carousel1.c1ea7f9fc63ff99750bc.jpeg",
+    "static/media/carousel3.jpeg": "/itinfo-clone-react/static/media/carousel3.15081d5897d1d33fb5dd.jpeg",
+    "static/media/carousel2.jpeg": "/itinfo-clone-react/static/media/carousel2.f67535ab4156e3a67af2.jpeg",
+    "static/media/carousel4.jpeg": "/itinfo-clone-react/static/media/carousel4.efefe856765626d566ec.jpeg",
+    "static/media/office_back_img.png": "/itinfo-clone-react/static/media/office_back_img.85f2802c9e1972f948f5.png",
+    "index.html": "/itinfo-clone-react/index.html",
+    "main.f1c208a3.css.map": "/itinfo-clone-react/static/css/main.f1c208a3.css.map",
+    "main.e386dead.js.map": "/itinfo-clone-react/static/js/main.e386dead.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1c208a3.css",
+    "static/js/main.e386dead.js"
+  ]
+}
