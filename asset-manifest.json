@@ -1,18 +1,23 @@
 {
   "files": {
-    "main.css": "/itinfo-clone-react/static/css/main.f1c208a3.css",
-    "main.js": "/itinfo-clone-react/static/js/main.e386dead.js",
+    "main.css": "/itinfo-clone-react/static/css/main.9ded29eb.css",
+    "main.js": "/itinfo-clone-react/static/js/main.0dc9f3ee.js",
+    "static/media/lect.png": "/itinfo-clone-react/static/media/lect.e01090f2ea835e6fb047.png",
+    "static/media/contest.jpg": "/itinfo-clone-react/static/media/contest.95d62260ff4f743ce32b.jpg",
+    "static/media/ccontest.jpg": "/itinfo-clone-react/static/media/ccontest.3c36e4c602ebd8f01b9a.jpg",
+    "static/media/sub_visual.jpg": "/itinfo-clone-react/static/media/sub_visual.d141514b854fbd36175d.jpg",
     "static/media/carousel1.jpeg": "/itinfo-clone-react/static/media/carousel1.c1ea7f9fc63ff99750bc.jpeg",
     "static/media/carousel3.jpeg": "/itinfo-clone-react/static/media/carousel3.15081d5897d1d33fb5dd.jpeg",
     "static/media/carousel2.jpeg": "/itinfo-clone-react/static/media/carousel2.f67535ab4156e3a67af2.jpeg",
+    "static/media/hackcontest.png": "/itinfo-clone-react/static/media/hackcontest.113df0e2bc52fa669455.png",
     "static/media/carousel4.jpeg": "/itinfo-clone-react/static/media/carousel4.efefe856765626d566ec.jpeg",
     "static/media/office_back_img.png": "/itinfo-clone-react/static/media/office_back_img.85f2802c9e1972f948f5.png",
     "index.html": "/itinfo-clone-react/index.html",
-    "main.f1c208a3.css.map": "/itinfo-clone-react/static/css/main.f1c208a3.css.map",
-    "main.e386dead.js.map": "/itinfo-clone-react/static/js/main.e386dead.js.map"
+    "main.9ded29eb.css.map": "/itinfo-clone-react/static/css/main.9ded29eb.css.map",
+    "main.0dc9f3ee.js.map": "/itinfo-clone-react/static/js/main.0dc9f3ee.js.map"
   },
   "entrypoints": [
-    "static/css/main.f1c208a3.css",
-    "static/js/main.e386dead.js"
+    "static/css/main.9ded29eb.css",
+    "static/js/main.0dc9f3ee.js"
   ]
 }
